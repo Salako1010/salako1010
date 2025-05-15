@@ -1,15 +1,15 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Salako Adewale Musiliyu
-===============================================================================================================================================
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Salako Adewale Musiliyu.
+================================================================================================================================================
 
 Data Scientist
 --------------
 
 I'm a data scientist who enjoys documenting his learning journey
 
-* 🌍  I'm based in Nigeria
+* 🌍  I'm based in Nigeria.
 * ✉️  You can contact me at [salakomusiliyu@gmail.com](mailto:salakomusiliyu@gmail.com)
-* 🧠  I'm learning Python
-* 🤝  I'm open to collaborating on I'm open to collaborate on data analysis projects; volunteer or otherwise
+* 🧠  I'm learning Python.
+* 🤝  I'm open to collaborating on data analysis projects; volunteer or otherwise.
 * ⚡  I'm secretly Spiderman... but don't tell anyone.
 
 ### Skills
